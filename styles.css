@@ -42,6 +42,11 @@ header {
     margin: 20px;
 }
 
+.carousel-control-next {
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo negro con transparencia */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
 button {
     padding: 10px;
     margin-top: 10px;
